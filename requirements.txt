@@ -5,3 +5,4 @@ Werkzeug==3.0.3
 requests==2.32.3
 openai==1.40.0
 yfinance==0.2.66
+gunicorn==23.0.0
